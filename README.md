@@ -13,7 +13,6 @@ Note: all files place under notprogrammers package
 
  
  
-@HELLO BLAT YA RUSKI ALEXANDER KISELEV !!!!!!!!!!!!!!  
   
   
 @##### notProgrammer$ #####@
