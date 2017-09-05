@@ -12,7 +12,4 @@ Note: all files place under notprogrammers package
   
 
   
-  
-  
-  
 @##### notProgrammer$ #####@
