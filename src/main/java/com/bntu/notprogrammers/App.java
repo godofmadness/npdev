@@ -8,6 +8,7 @@ public class App {
     public static void main( String[] args ) {
         System.out.println( "Hello World!" );
         myFunc();
+        ideaOut();
     }
     
     /*
@@ -19,5 +20,9 @@ public class App {
     */
     public static void myFunc() {
         System.out.println("My out");
+    }
+
+    public static void ideaOut() {
+        System.out.println("Out through idea");
     }
 }
